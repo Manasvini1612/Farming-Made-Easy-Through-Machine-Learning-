@@ -1,0 +1,27 @@
+predicted price endhuk vary iythundhi?????
+
+how to remove already created accounts????
+
+how to remove the default crop name????
+
+places(nizamabad,darjelling) endhuk unay crop names lo????-commodity ivakunda variety icharu so aa problem osthundhi
+
+what is the basic concept?????
+
+predicted price mari thakva endhuk undhi
+
+time stamp ???????
+
+run dhantlo unna commands vere system lo cheyal ante ela??
+
+webpage reload chesthe output ochelaga chudal ante ela????
+
+
+CHANGES 
+
+1) confusion matrix
+2) password and username limitations 
+3) creating a new web page for displaying accuracy results 
+4) showing prediction values for every algorithm in that table.
+5) and graphs respectively. 
+6) data set cleaning original and final .
